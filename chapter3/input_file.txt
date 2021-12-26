@@ -1,0 +1,2 @@
+this is a input file
+it is created for a project test
